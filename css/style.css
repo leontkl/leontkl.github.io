@@ -1,0 +1,12 @@
+.profilepic{
+	width: 50%;
+	padding-top: 0px;
+  	padding-bottom: 0px;
+  	margin-right: 0px;
+  	margin-left: 0px;
+}
+
+header {
+    text-align: center;
+    background-image: url("img/portfolio/stock-photo-98384509.jpg")
+}
